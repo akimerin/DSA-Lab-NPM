@@ -120,7 +120,7 @@ int main() {
     cout << "1 0 0 " << endl;
     cout << "0 1 0 " << endl;
     cout << "0 0 1 " << endl;
-    cout << "5 6 4  -  The duration of the work (the first number corresponds to the first job, etc.)" << endl;
+    cout << "5 6 4   - The duration of the work (the first number corresponds to the first job, etc.)" << endl;
     cout << endl;
     cout << endl;
     cout << "Enter the number of vertices: ";
